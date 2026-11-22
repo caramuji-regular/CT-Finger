@@ -2,7 +2,7 @@
    Cada recurso é uma função independente (init...). Se um elemento não existir
    na página, a função simplesmente não faz nada. */
 
-const WHATSAPP = "5554993515225";
+const WHATSAPP = "555496058464";
 const REDUCED_MOTION = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 const MOBILE_MENU_QUERY = window.matchMedia("(max-width: 980px)");
 
