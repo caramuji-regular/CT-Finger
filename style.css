@@ -320,7 +320,6 @@ h1, h2, h3 {
 .site-footer p { color: var(--muted); }
 .site-footer__small { margin-top: 0.4rem; font-size: 0.85rem; }
 .site-footer__small a { color: var(--orange-light); }
-
 .whatsapp-float {
     position: fixed;
     right: max(1.25rem, env(safe-area-inset-right));
